@@ -6,6 +6,7 @@
   <form action="{% url 'learning_logs:edit_entry' entry.id %}" method="post">
     {% csrf_token %}
     {{ form.as_p }}
-    <button name="submit">添加主题</button>
+    <button name="submit">Add</button>
   </form>
 {% endblock content %}
+
