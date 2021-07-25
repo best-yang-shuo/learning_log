@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9822cf5a-6451-49b5-aa48-aa4791d0d347" name="默认变更列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Python文件.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python文件.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning_logs/templates/learning_logs/new_entry.html" beforeDir="false" afterPath="$PROJECT_DIR$/learning_logs/templates/learning_logs/new_entry.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning_logs/templates/learning_logs/new_topic.html" beforeDir="false" afterPath="$PROJECT_DIR$/learning_logs/templates/learning_logs/new_topic.html" afterDir="false" />
-    </list>
+    <list default="true" id="9822cf5a-6451-49b5-aa48-aa4791d0d347" name="默认变更列表" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +44,7 @@
       <updated>1626935998557</updated>
       <workItem from="1626936000396" duration="4148000" />
       <workItem from="1626944216746" duration="740000" />
-      <workItem from="1627198561589" duration="1406000" />
+      <workItem from="1627198561589" duration="1743000" />
     </task>
     <servers />
   </component>
