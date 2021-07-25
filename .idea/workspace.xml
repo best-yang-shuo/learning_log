@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9822cf5a-6451-49b5-aa48-aa4791d0d347" name="默认变更列表" comment="">
-      <change beforePath="$PROJECT_DIR$/learning_logs/templates/learning_logs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/learning_logs/templates/learning_logs/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="9822cf5a-6451-49b5-aa48-aa4791d0d347" name="默认变更列表" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +49,7 @@
       <updated>1626935998557</updated>
       <workItem from="1626936000396" duration="4148000" />
       <workItem from="1626944216746" duration="740000" />
-      <workItem from="1627198561589" duration="2900000" />
+      <workItem from="1627198561589" duration="3224000" />
     </task>
     <servers />
   </component>
