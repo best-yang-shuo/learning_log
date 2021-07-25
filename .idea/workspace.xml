@@ -49,11 +49,23 @@
       <updated>1626935998557</updated>
       <workItem from="1626936000396" duration="4148000" />
       <workItem from="1626944216746" duration="740000" />
-      <workItem from="1627198561589" duration="3224000" />
+      <workItem from="1627198561589" duration="3486000" />
     </task>
+    <task id="LOCAL-00001" summary="修改主页">
+      <created>1627202035199</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627202035199</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改主页" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改主页" />
   </component>
 </project>
